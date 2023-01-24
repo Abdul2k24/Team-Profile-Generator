@@ -20,7 +20,7 @@ return `
     <div class="container-fluid">
         <div class="row">
             <div class="col-12 jumbotron mb-3 team-heading my-team-section" >
-                <h1 class="text-center">My Team</h1>
+                <h1 class="text-center">MY TEAM</h1>
             </div>
         </div>
     </div>
